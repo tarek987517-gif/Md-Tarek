@@ -1,0 +1,6 @@
+{
+  "name": "হাওর টিভি HD",
+  "description": "হাওর টিভি HD - বাংলাদেশের আধুনিক, দ্রুত ও নির্ভরযোগ্য অনলাইন নিউজ পোর্টাল। সুনামগঞ্জ, বিশ্বম্ভরপুর, সিলেটসহ দেশ-বিদেশের ব্রেকিং নিউজ ও বিশ্লেষণ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
